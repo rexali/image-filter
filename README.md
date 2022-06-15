@@ -31,6 +31,15 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 
 Follow the process described in the course to `eb init` a new application and `eb create` a new environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
 
+## GitHub Repository Link:
+
+The github link is: https://github.com/rexali/image-filter
+
+## Elastic Beanstalk Endpoint URL
+
+The link to the endpoint URL for a running elastic beanstalk deployment is: http://image-filter-bello-dev-dev.us-east-1.elasticbeanstalk.com/
+
+
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
